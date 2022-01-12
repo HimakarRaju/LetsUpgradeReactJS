@@ -1,0 +1,19 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "Learning Reactjs through LetsUpgrade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HimakarRaju/LetsUpgradeReactJS.git"
+  },
+  "author": "HimakarRaju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HimakarRaju/LetsUpgradeReactJS/issues"
+  },
+  "homepage": "https://github.com/HimakarRaju/LetsUpgradeReactJS#readme"
+}
